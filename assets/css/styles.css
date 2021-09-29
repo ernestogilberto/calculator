@@ -33,7 +33,6 @@ body {
 
 #keyboard {
     width    : 90%;
-    /*background-color : #003169;*/
     overflow : hidden;
     margin   : 0 auto;
 }
@@ -54,23 +53,9 @@ body {
 }
 
 #keyboard > span.equal {
-    /*width : 100px;*/
     background-color   : darkblue;
 }
 
 #keyboard > span.clear {
-    /*width : 100px;*/
     background-color   : orangered;
 }
-
-/*#key > span.back::after {*/
-/*    content : "\232B";*/
-/*}*/
-
-/*#key > span.space {*/
-/*    width : calc(95%);*/
-/*}*/
-
-/*#letters > span.space::after {*/
-/*    content : "espacio";*/
-/*}*/
